@@ -177,12 +177,4 @@ The original final commit landed in **January 2022**.
 
 ## Authors
 
-- **Anas El Nemr** (`46-6226@T21`)
-- **Ahmed Ibrahim Eltawel** (`46-8041@T21`) — also the original committer / repo owner of the upstream mirror
-- **Abdelrahman Mahmoud Hafez** (`46-12167@T36`) — third member of the "Evergreen" team
-
-## Acknowledgements
-
-This repository is a friendly mirror of [`ahmedeltawel/DB2-Grid-Index-Project`](https://github.com/ahmedeltawel/DB2-Grid-Index-Project) — the original code, design, and implementation effort were shared jointly by the team listed above. Both authors share full credit for the engine; this mirror exists so each contributor has the project visible on their own GitHub profile.
-
-External libraries: [JSQLParser](https://github.com/JSQLParser/JSqlParser) (Apache 2.0) and [prettytable](https://github.com/skebir/prettytable).
+Anas ElNemr  ·  Ahmed Eltawel
